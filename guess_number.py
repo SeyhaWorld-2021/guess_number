@@ -10,7 +10,7 @@ print("2. Medium")
 print("3. Hard")
 print("-"*30)
 mode = input("Enter choice (1/2/3):")
-
+print("-"*30)
 
 if mode == "1":
     low = 1
